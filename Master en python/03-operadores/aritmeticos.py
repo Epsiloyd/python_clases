@@ -1,0 +1,21 @@
+#operadores aritmeticos 
+numero1 = 27
+numero2 = 20  #operador de asignacion =
+
+resta = numero1 - numero2
+
+suma = numero1 + numero2
+
+multiplicacion = numero1 * numero2
+
+divicion = numero1 / numero2
+
+resto = numero1 % numero2
+
+
+print("#################Calculadora#################")
+print(f"La resta es: {resta}")
+print(f"La suma es: {suma}")
+print(f"La multiplicacion es: {multiplicacion}")
+print(f"La divicion es: {divicion}")
+print(f"Ea resto de la divicion es: {resto}")
